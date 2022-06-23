@@ -1,1 +1,1 @@
-This repoository is practice of git and github command to stay familier with the environment
+This repository is practice of git and github command to stay familier with the environment
